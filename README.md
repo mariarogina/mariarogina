@@ -1,6 +1,6 @@
 Hello🤗
 
-![Image of languages](https://www.pngarea.com/pngs/116/7499748_javascript-logo-png-html-css-javascript-logo-png.png)
+![Image of languages](https://www.pngitem.com/pimgs/m/519-5194865_html-css-js-html-5-hd-png-download.png)
 
 
 ![Image of Adobe](https://smallimg.pngkey.com/png/small/143-1434872_adobe-photoshop-illustrator-indesign-illustrator-photoshop-indesign-logo.png)
