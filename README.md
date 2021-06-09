@@ -13,3 +13,5 @@ Git pages experiments
 3. A registration form interface in Finnish https://mariarogina.github.io/mariform/
 4. Weather API app https://mariarogina.github.io/myWeatherApi/
 5. A to-do with a funny background https://mariarogina.github.io/aquadiscoToDo/
+6. A generator for random countries cards https://mariarogina.github.io/randomCountryCard/
+7. Even-odd-prime classifier and colorizer with React https://mariarogina.github.io/oddAndEvenAndPrime/
