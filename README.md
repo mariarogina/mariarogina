@@ -1,6 +1,6 @@
 Hello🤗
 
-![Image of languages](https://mpng.subpng.com/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg)
+![Image of languages](https://www.pngarea.com/pngs/116/7499748_javascript-logo-png-html-css-javascript-logo-png.png)
 
 
 ![Image of Adobe](https://smallimg.pngkey.com/png/small/143-1434872_adobe-photoshop-illustrator-indesign-illustrator-photoshop-indesign-logo.png)
