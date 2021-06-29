@@ -18,4 +18,4 @@ Git pages experiments
 8. Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/
 9. A brief business card with skin change option https://mariarogina.github.io/myBusinessCard/
 10. Cat table via API https://mariarogina.github.io/catApiTable/ 😸😸
-11. Somewhat stylized lyrics finder https://mariarogina.github.io/lyrics-Finder/#/ (this API often has "too many requests, but once in a while you may be lucky :D. Instead you might enjoy my flower spinner)
+11. Somewhat stylized lyrics finder https://mariarogina.github.io/lyrics-Finder/#/ (this API often has "too many requests", but once in a while you may be lucky :D. Instead you might enjoy my flower spinner)
