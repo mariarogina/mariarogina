@@ -7,9 +7,13 @@ Hello🤗
 
 Git pages experiments
 
-Portfolio of my translation services https://mariarogina.github.io
-A simple to-do list https://mariarogina.github.io/mytodo/
-A generator for random countries cards https://mariarogina.github.io/randomCountryCard/
-Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/
+Portfolio of my translation services https://mariarogina.github.io  
+
+A simple to-do list https://mariarogina.github.io/mytodo/  
+
+A generator for random countries cards https://mariarogina.github.io/randomCountryCard/  
+
+Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/  
+
 A brief business card with skin change option https://mariarogina.github.io/myBusinessCard/
 
