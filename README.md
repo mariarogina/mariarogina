@@ -7,6 +7,8 @@ Hello🤗
 
 Git pages experiments
 
+React/redux web shop https://mariarogina.github.io/webShop/
+
 Portfolio of my translation services https://mariarogina.github.io  
 
 A simple to-do list https://mariarogina.github.io/mytodo/  
