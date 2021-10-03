@@ -13,11 +13,11 @@ React gallery with filter https://mariarogina.github.io/gallery-filter/
 
 React hex-to-rgb converter https://mariarogina.github.io/hexToRgb/
 
-A simple to-do list https://mariarogina.github.io/mytodo/  
-
-A generator for random countries cards https://mariarogina.github.io/randomCountryCard/  
+A React Babel generator for random countries cards https://mariarogina.github.io/randomCountryCard/  
 
 Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/  
+
+A simple to-do list https://mariarogina.github.io/mytodo/  
 
 A brief business card with skin change option https://mariarogina.github.io/myBusinessCard/
 
