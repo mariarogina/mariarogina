@@ -7,9 +7,10 @@ Hello🤗
 
 Git pages experiments
 
-React/redux web shop https://mariarogina.github.io/webShop/
 
 React gallery with filter https://mariarogina.github.io/gallery-filter/
+
+React/redux web shop https://mariarogina.github.io/webShop/ (desktop version for now)
 
 React hex-to-rgb converter https://mariarogina.github.io/hexToRgb/
 
