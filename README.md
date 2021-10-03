@@ -14,9 +14,9 @@ React/redux web shop https://mariarogina.github.io/webShop/ (desktop version for
 
 React hex-to-rgb converter https://mariarogina.github.io/hexToRgb/
 
-A React Babel generator for random countries cards https://mariarogina.github.io/randomCountryCard/  
+A React Babel generator for random countries cards https://mariarogina.github.io/randomCountryCard/  (world countries API)
 
-Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/  
+Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/ (world countries API) 
 
 A simple to-do list https://mariarogina.github.io/mytodo/  
 
