@@ -9,6 +9,9 @@ Git pages experiments
 
 React/redux web shop https://mariarogina.github.io/webShop/
 
+React gallery with filter https://mariarogina.github.io/gallery-filter/
+
+React hex-to-rgb converter https://mariarogina.github.io/hexToRgb/
 A simple to-do list https://mariarogina.github.io/mytodo/  
 
 A generator for random countries cards https://mariarogina.github.io/randomCountryCard/  
