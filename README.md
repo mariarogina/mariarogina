@@ -5,7 +5,7 @@ Hello🤗
 ![Image of Adobe](https://raw.githubusercontent.com/mariarogina/mariarogina/main/adobe.png)
 
 
-##Git pages experiments
+Git pages experiments
 
 
 React/redux web shop https://mariarogina.github.io/web-store-api/ (desktop version for now)
