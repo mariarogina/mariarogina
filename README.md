@@ -5,18 +5,18 @@ Hello🤗
 ![Image of Adobe](https://raw.githubusercontent.com/mariarogina/mariarogina/main/adobe.png)
 
 
-Git pages experiments
+##Git pages experiments
 
+
+React/redux web shop https://mariarogina.github.io/web-store-api/ (desktop version for now)
+
+A React generator for random countries cards https://mariarogina.github.io/country-card-generator/ (world countries API)
 
 React gallery with filter https://mariarogina.github.io/gallery-filter/
 
-React/redux web shop https://mariarogina.github.io/webShop/ (desktop version for now)
+Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/ (world countries API) 
 
 React hex-to-rgb converter https://mariarogina.github.io/hexToRgb/
-
-A React Babel generator for random countries cards https://mariarogina.github.io/randomCountryCard/  (world countries API)
-
-Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/ (world countries API) 
 
 A simple to-do list https://mariarogina.github.io/mytodo/  
 
