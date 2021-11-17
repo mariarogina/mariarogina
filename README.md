@@ -6,6 +6,7 @@
 
 Git pages experiments
 
+React/redux wish list https://mariarogina.github.io/wish-list/
 
 React/redux web shop https://mariarogina.github.io/web-store-api/ (desktop version for now)
 
