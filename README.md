@@ -10,7 +10,7 @@ React/redux drag-and-drop wish list https://mariarogina.github.io/wish-list/
 
 React/redux web shop https://mariarogina.github.io/web-store-api/ (desktop version for now)
 
-A React generator for random countries cards https://mariarogina.github.io/country-card-generator/ (world countries API)
+React generator for random countries cards https://mariarogina.github.io/country-card-generator/ (world countries API)
 
 React gallery with filter https://mariarogina.github.io/gallery-filter/
 
@@ -18,7 +18,7 @@ Visualizing data on world population and languages in React https://mariarogina.
 
 React hex-to-rgb converter https://mariarogina.github.io/hexToRgb/
 
-A simple to-do list https://mariarogina.github.io/mytodo/  
+Simple to-do list https://mariarogina.github.io/mytodo/  
 
-A brief business card with skin change option https://mariarogina.github.io/myBusinessCard/
+Brief business card with skin change option https://mariarogina.github.io/myBusinessCard/
 
