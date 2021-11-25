@@ -4,21 +4,13 @@
 ![Image of Adobe](https://raw.githubusercontent.com/mariarogina/mariarogina/main/adobe.png)
 
 
-Git pages experiments
+React  
+https://mariarogina.github.io/country-card-generator/
+https://mariarogina.github.io/hexToRgb/
+https://mariarogina.github.io/gallery-filter/
+https://mariarogina.github.io/countriesDataVisualization/
 
-React/redux drag-and-drop wish list https://mariarogina.github.io/wish-list/
-
-React/redux web shop https://mariarogina.github.io/web-store-api/ (desktop version for now)
-
-React generator for random countries cards https://mariarogina.github.io/country-card-generator/ (world countries API)
-
-React gallery with filter https://mariarogina.github.io/gallery-filter/
-
-Visualizing data on world population and languages in React https://mariarogina.github.io/countriesDataVisualization/ (world countries API) 
-
-React hex-to-rgb converter https://mariarogina.github.io/hexToRgb/
-
-Simple to-do list https://mariarogina.github.io/mytodo/  
-
-Brief business card with skin change option https://mariarogina.github.io/myBusinessCard/
+React/redux 
+https://mariarogina.github.io/web-store-api/ 
+https://mariarogina.github.io/wish-list/
 
