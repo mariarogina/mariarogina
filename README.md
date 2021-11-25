@@ -3,12 +3,18 @@
 
 
 React  
+
 https://mariarogina.github.io/country-card-generator/
+
 https://mariarogina.github.io/hexToRgb/
+
 https://mariarogina.github.io/gallery-filter/
+
 https://mariarogina.github.io/countriesDataVisualization/
 
 React/redux 
+
 https://mariarogina.github.io/web-store-api/ 
+
 https://mariarogina.github.io/wish-list/
 
