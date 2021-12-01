@@ -6,7 +6,7 @@ React
 
 https://mariarogina.github.io/country-card-generator/
 
-https://mariarogina.github.io/countriesDataVisualization/
+https://mariarogina.github.io/hexToRgb/
 
 React/redux 
 
